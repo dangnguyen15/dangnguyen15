@@ -28,7 +28,7 @@ Trong thời gian học, mình đã lead nhiều dự án nhóm (3–5 thành vi
 
 🚀 Highlighted University Projects:
 
-1️⃣ Image Similarity (VGG16 + YOLOv3): image-similarity-and-object-detection-app
+1️⃣ Image Similarity (VGG16 + YOLOv3): [image-similarity-and-object-detection-app](https://github.com/dangnguyen15/image-similarity-and-object-detection-app)
 
   • Extracts deep features using VGG16 (fc1 layer)
 
@@ -38,7 +38,7 @@ Trong thời gian học, mình đã lead nhiều dự án nhóm (3–5 thành vi
 
   • GUI built with Tkinter
 
-2️⃣ Face Detection (YOLOv8 + Mediapipe): ai-face-detection-project
+2️⃣ Face Detection (YOLOv8 + Mediapipe): [ai-face-detection-project](https://github.com/dangnguyen15/ai-face-detection-project)
 
   • Uses YOLOv8 for accurate face detection
   
@@ -46,7 +46,7 @@ Trong thời gian học, mình đã lead nhiều dự án nhóm (3–5 thành vi
   
   • Real-time webcam support
 
-3️⃣ Dog/Cat Classifier (CNN + OR-Tools): dog-cat-cnn-classifier
+3️⃣ Dog/Cat Classifier (CNN + OR-Tools): [dog-cat-cnn-classifier](https://github.com/dangnguyen15/dog-cat-cnn-classifier)
 
   • Custom CNN built with TensorFlow/Keras
 
@@ -54,7 +54,7 @@ Trong thời gian học, mình đã lead nhiều dự án nhóm (3–5 thành vi
 
   • Tkinter GUI for real-time inference
 
-4️⃣ SQL Supermarket Management System: supermarket-management-SQL-system
+4️⃣ SQL Supermarket Management System: [supermarket-management-SQL-system](https://github.com/dangnguyen15/supermarket-management-SQL-system)
 
   • Full ERD + SQL schema
   
@@ -64,7 +64,7 @@ Trong thời gian học, mình đã lead nhiều dự án nhóm (3–5 thành vi
   
   • Includes roles, permissions, backup & restore scripts
 
-5️⃣ Library App (Tkinter + SQLite): library-system-with-excel
+5️⃣ Library App (Tkinter + SQLite): [library-system-with-excel](https://github.com/dangnguyen15/library-system-with-excel)
 
   • Python GUI application
 

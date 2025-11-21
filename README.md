@@ -69,7 +69,3 @@ Trong thời gian học, mình đã lead nhiều dự án nhóm (3–5 thành vi
   • Python GUI application
 
   • Borrow/return books, student management
-
-  • Local database using SQLite
-
-  • Practical CRUD design

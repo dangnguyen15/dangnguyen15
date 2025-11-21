@@ -1,4 +1,5 @@
-👋 Hi, I'm Nguyễn Hồng Đăng
+👋 Hi, I'm Nguyễn Hồng Đăng - Hudson
+
 
 I'm a 3rd-year Artificial Intelligence student at Hoa Sen University, passionate about Machine Learning, Deep Learning, and Computer Vision.
 During my university years, I led multiple team projects (3–5 members each), covering topics from image similarity, face detection, and CNN classification to database systems and GUI apps.
